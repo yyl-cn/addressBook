@@ -1,0 +1,19 @@
+{
+   "entries" : {
+      "hanmeimei" : {
+         "address" : "Earth somewhere else",
+         "age" : 26,
+         "mobile" : "13700000001"
+      },
+      "lilei" : {
+         "address" : "Earth somewhere",
+         "age" : 27,
+         "mobile" : "13700000000"
+      },
+      "xiaoming" : {
+         "address" : "Earth somewhere too",
+         "age" : 28,
+         "mobile" : "13700000002"
+      }
+   }
+}
